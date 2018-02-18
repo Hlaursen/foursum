@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class foursum {
+public class Simple {
     public static void main(String[] args) {
 	       Scanner S = new Scanner(System.in);
 	       int N = Integer.parseInt(S.nextLine());
